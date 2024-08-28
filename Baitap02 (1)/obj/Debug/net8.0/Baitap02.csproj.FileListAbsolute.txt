@@ -1,0 +1,62 @@
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\appsettings.Development.json
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\appsettings.json
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\Baitap02.staticwebassets.runtime.json
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\Baitap02.exe
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\Baitap02.deps.json
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\Baitap02.runtimeconfig.json
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\Baitap02.dll
+D:\LapTrinhWeb\asp-web\Baitap02\bin\Debug\net8.0\Baitap02.pdb
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.AssemblyInfoInputs.cache
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.AssemblyInfo.cs
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.csproj.CoreCompileInputs.cache
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.MvcApplicationPartsAssemblyInfo.cache
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.RazorAssemblyInfo.cache
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.RazorAssemblyInfo.cs
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.sourcelink.json
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\staticwebassets.build.json
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\staticwebassets.development.json
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\staticwebassets\msbuild.Baitap02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\staticwebassets\msbuild.build.Baitap02.props
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Baitap02.props
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Baitap02.props
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\scopedcss\bundle\Baitap02.styles.css
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\scopedcss\projectbundle\Baitap02.bundle.scp.css
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.dll
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\refint\Baitap02.dll
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.pdb
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\Baitap02.genruntimeconfig.cache
+D:\LapTrinhWeb\asp-web\Baitap02\obj\Debug\net8.0\ref\Baitap02.dll
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\appsettings.Development.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\appsettings.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\Baitap02.staticwebassets.runtime.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\Baitap02.exe
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\Baitap02.deps.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\Baitap02.runtimeconfig.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\Baitap02.dll
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\bin\Debug\net8.0\Baitap02.pdb
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.AssemblyInfoInputs.cache
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.AssemblyInfo.cs
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.csproj.CoreCompileInputs.cache
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.MvcApplicationPartsAssemblyInfo.cache
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.RazorAssemblyInfo.cache
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.RazorAssemblyInfo.cs
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.sourcelink.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\staticwebassets.build.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\staticwebassets.development.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\staticwebassets\msbuild.Baitap02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\staticwebassets\msbuild.build.Baitap02.props
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Baitap02.props
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Baitap02.props
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\scopedcss\bundle\Baitap02.styles.css
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\scopedcss\projectbundle\Baitap02.bundle.scp.css
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.dll
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\refint\Baitap02.dll
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.pdb
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\Baitap02.genruntimeconfig.cache
+D:\BAITAP_ASP\ASP-web\Baitap02 (1)\obj\Debug\net8.0\ref\Baitap02.dll
