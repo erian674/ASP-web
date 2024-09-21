@@ -1,13 +1,13 @@
 ﻿
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Edit";
 }
 @model TheLoai
 
 <div class="container">
-    <h3>Thêm thể loại</h3>
+    <h3>Chỉnh sửa thể loại</h3>
     <div asp-validation-summary="All" class="text-danger"></div>
-    <form method="post">       
+    <form method="post" asp-action="Edit">
         <div class="form-group">
             <label asp-for="Name">Tên thể loại</label>
             <input asp-for="Name" type="text" class="form-control" />
@@ -17,12 +17,13 @@
             <label asp-for="DateCreated">Ngày tạo</label>
             <input asp-for="DateCreated" type="date" class="form-control" />
             <span asp-validation-for="DateCreated" class="text-danger"></span>
-        </div> 
-        <button type="submit" class="btn btn-primary">Tạo mới</button>
+        </div>
+        <button type="submit" class="btn btn-primary">Lưu</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
     </form>
 </div>
-@section Scripts 
-{
-    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
-    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
 }
