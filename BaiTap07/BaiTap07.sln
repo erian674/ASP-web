@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap07", "BaiTap07\BaiTap07.csproj", "{10AED50A-3B3F-4919-917B-497BE917EA7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap07", "BaiTap07\BaiTap07.csproj", "{10AED50A-3B3F-4919-917B-497BE917EA7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
