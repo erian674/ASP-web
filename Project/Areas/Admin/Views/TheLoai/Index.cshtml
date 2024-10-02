@@ -1,8 +1,4 @@
-﻿@{
-    ViewData["Title"] = "Index";
-}
-
-<div class="container">
+﻿<div class="container">
     <form asp-action="Search" method="get">
         <input type="text" name="searchString" placeholder="Nhập thể loại cần tìm ..."
                value="@ViewBag.SearchString" />
@@ -33,4 +29,8 @@
     <a asp-controller="TheLoai" asp-action="Create" class="btn btn-primary">Thêm mới</a>
 
 </div>
-
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

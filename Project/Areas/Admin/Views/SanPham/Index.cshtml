@@ -10,19 +10,29 @@
         <input type="submit" value="Tìm kiếm" />
     </form>
     <table class="table">
+        <thead>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Mô tả</th>
+                <th>Giá tiền</th>
+                <th>Hình ảnh</th>
+                <th>Thể loại</th>
+                <th>Tên chức năng</th>
+            </tr>
+        </thead>
         <tbody>
             @foreach (var item in Model)
             {
                 <tr>
-                    <td>@item.Name</td>
-                    <td>@item.Description</td>
-                    <td>@item.Price</td>
-                    <td><img with="50%" src="@item.ImageUrl" /></td>
-                    <td>@item.TheLoai.Name</td>
-                    <td>
+                    <td width="15%">@item.Name</td>
+                    <td width="25%">@item.Description</td>
+                    <td width="15%">@item.Price</td>
+                    <td width="15%"><img width="150" src="@item.ImageUrl" /></td>
+                    <td width="15%">@item.TheLoai.Name</td>
+                    <td width="15%">
                         <a asp-action="Upsert" asp-route-id="@item.Id">Edit</a>|
-                        <a href="#">Detail</a>|
-                        <a href="#">Delete</a>
+                        <a href="#">Details</a>|
+                        <a href="#" onclick="confirmDelete(@item.Id, $(this))">Delete</a>
                     </td>
                 </tr>
             }
@@ -30,3 +40,28 @@
     </table>
     <a asp-controller="SanPham" asp-action="Upsert" class="btn btn-primary">Thêm mới</a>
 </div>
+<script>
+    function confirmDelete(id, row) 
+    { 
+        if(confirm("Bạn có chắc chắn muốn xóa sản phẩm có id là" + id + "?"))
+        {
+            xoa(id, $(row))
+        }
+    }
+    function xoa(idx, row)
+    {
+        $.ajax({
+            url: `SanPham/Delete`,
+            data: {id: idx},
+            type: "POST",
+            success: function(data){
+                row.closest("tr").remove();
+            }
+        })
+    }
+</script>
+@section Scripts {
+    @{
+            <partial name="_ValidationScriptsPartial" />
+    }
+}
