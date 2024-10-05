@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
@@ -7,6 +8,8 @@ using Project.Models;
 namespace Project.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
+
     public class SanPhamController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -71,6 +74,23 @@ namespace Project.Controllers
             _db.SanPham.Remove(sanpham);
             _db.SaveChanges();
             return Json(new { success = true });
+        }
+        [HttpGet]
+        public IActionResult Search(String searchString)
+        {
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                var sanpham = _db.SanPham.
+                    Where(tl => tl.Name.Contains(searchString)).ToList();
+                ViewBag.SearchString = searchString;
+                ViewBag.SanPham = sanpham;
+            }
+            else
+            {
+                var sanpham = _db.SanPham.ToList();
+                ViewBag.SanPham = sanpham;
+            }
+            return View("Index");
         }
     }
 }

@@ -4,11 +4,6 @@
 }
 @model IEnumerable<SanPham>
 <div class="container">
-    <form asp-action="Search" method="get">
-        <input type="text" name="searchString" placeholder="Nhập thể loại cần tìm ..."
-               value="@ViewBag.SearchString" />
-        <input type="submit" value="Tìm kiếm" />
-    </form>
     <table class="table">
         <thead>
             <tr>
@@ -27,7 +22,7 @@
                     <td width="15%">@item.Name</td>
                     <td width="25%">@item.Description</td>
                     <td width="15%">@item.Price</td>
-                    <td width="15%"><img width="150" src="@item.ImageUrl" /></td>
+                    <td width="15%"><img width="50" src="@item.ImageUrl" /></td>
                     <td width="15%">@item.TheLoai.Name</td>
                     <td width="15%">
                         <a asp-action="Upsert" asp-route-id="@item.Id">Edit</a>|
