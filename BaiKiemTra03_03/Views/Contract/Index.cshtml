@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString"
+               value="@ViewBag.SearchString" />
+        <input type="submit" value="Tìm kiếm" />
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên hợp đồng</th>
+                <th>Ngày ký kết</th>
+                <th>Giá trị hợp đồng</th>
+                <th></th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        @foreach (var item in ViewBag.Contract)
+        {
+            <tbody>
+                <tr>
+                    <td width="25%">@item.Contract_name</td>
+                    <td width="25%">@String.Format("{0:dd/MM/yyyy}", item.Signing_Date)</td>
+                    <td width="25%">@item.Contract_Value</td>
+                    <td width="25%">
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>|
+                        <a asp-action="Detail" asp-route-id="@item.Id">Detail</a>|
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            </tbody>
+        }
+    </table>
+    <a asp-controller="Contract" asp-action="Create" class="btn btn-primary">Thêm</a>
+
+</div>
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
