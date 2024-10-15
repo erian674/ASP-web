@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Upsert";
 }
 @model SanPham
@@ -33,7 +32,7 @@
             </select>
             <span asp-validation-for="TheLoaiId" class="text-danger"></span>
         </div>
-        <button type="submit" class="btn btn-primary">@(Model.Id == 0? "Tạo mới" : "Cập nhật")</button>
+        <button type="submit" class="btn btn-primary">@(Model.Id == 0 ? "Tạo mới" : "Cập nhật")</button>
         <a asp-action="Index" class="btn btn-secondary">Hủy</a>
     </form>
 </div>

@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Threading;
@@ -20,7 +21,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
-using Project.Data.Migrations;  
+using Project.Models;
 
 namespace Project.Areas.Identity.Pages.Account
 {
@@ -34,14 +35,12 @@ namespace Project.Areas.Identity.Pages.Account
         private readonly IEmailSender _emailSender;
         private readonly RoleManager<IdentityRole> _roleManager;
 
-
         public RegisterModel(
             UserManager<IdentityUser> userManager,
             IUserStore<IdentityUser> userStore,
             SignInManager<IdentityUser> signInManager,
             ILogger<RegisterModel> logger,
-            IEmailSender emailSender,
-            RoleManager<IdentityRole> roleManager)
+            IEmailSender emailSender, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _userStore = userStore;
@@ -104,13 +103,13 @@ namespace Project.Areas.Identity.Pages.Account
             [Display(Name = "Confirm password")]
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
             public string ConfirmPassword { get; set; }
-            [Required]
             public string Name { get; set; }
             public string Address { get; set; }
             public string Role { get; set; }
             [ValidateNever]
             public IEnumerable<SelectListItem> RoleList { get; set; }
         }
+
 
         public async Task OnGetAsync(string returnUrl = null)
         {
@@ -142,19 +141,20 @@ namespace Project.Areas.Identity.Pages.Account
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
-                var result = await _userManager.CreateAsync(user, Input.Password);
                 user.Name = Input.Name;
                 user.Address = Input.Address;
+                var result = await _userManager.CreateAsync(user, Input.Password);
+
                 if (result.Succeeded)
                 {
-                    if(Input.Role == null)
+                    if (Input.Role == null)
                     {
-                        await _userManager.AddToRoleAsync(user, "User");
-                    }   
+                        await _userManager.AddToRoleAsync(user, "Admin");
+                    }
                     else
                     {
                         await _userManager.AddToRoleAsync(user, Input.Role);
-                    }    
+                    }
                     _logger.LogInformation("User created a new account with password.");
 
                     var userId = await _userManager.GetUserIdAsync(user);
@@ -188,7 +188,6 @@ namespace Project.Areas.Identity.Pages.Account
             // If we got this far, something failed, redisplay form
             return Page();
         }
-
         private ApplicationUser CreateUser()
         {
             try

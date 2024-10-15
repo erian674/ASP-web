@@ -5,16 +5,712 @@
       "PackagePath": "staticwebassets\\Project.bundle.scp.css"
     },
     {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
       "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\404\\404.png",
+      "PackagePath": "staticwebassets\\images\\404\\404.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\apple-store.png",
+      "PackagePath": "staticwebassets\\images\\apple-store.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\blog-one.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-one.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\blog-three.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-three.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\blog-two.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-two.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\man-four.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-four.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\man-one.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-one.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\man-three.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-three.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\man-two.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-two.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\blog\\socials.png",
+      "PackagePath": "staticwebassets\\images\\blog\\socials.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\images\\call-icon.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\cart\\one.png",
+      "PackagePath": "staticwebassets\\images\\cart\\one.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\cart\\three.png",
+      "PackagePath": "staticwebassets\\images\\cart\\three.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\cart\\two.png",
+      "PackagePath": "staticwebassets\\images\\cart\\two.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\client.png",
+      "PackagePath": "staticwebassets\\images\\client.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\computer-img.png",
+      "PackagePath": "staticwebassets\\images\\computer-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\d-1.png",
+      "PackagePath": "staticwebassets\\images\\d-1.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\d-2.png",
+      "PackagePath": "staticwebassets\\images\\d-2.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\d-3.png",
+      "PackagePath": "staticwebassets\\images\\d-3.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\d-4.png",
+      "PackagePath": "staticwebassets\\images\\d-4.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\detail.png",
+      "PackagePath": "staticwebassets\\images\\detail.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\dress-shirt-img.png",
+      "PackagePath": "staticwebassets\\images\\dress-shirt-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\find-hero.png",
+      "PackagePath": "staticwebassets\\images\\find-hero.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\find-img.png",
+      "PackagePath": "staticwebassets\\images\\find-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\flag-france.png",
+      "PackagePath": "staticwebassets\\images\\flag-france.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\flag-uk.png",
+      "PackagePath": "staticwebassets\\images\\flag-uk.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\google-play.png",
+      "PackagePath": "staticwebassets\\images\\google-play.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\hero.png",
+      "PackagePath": "staticwebassets\\images\\hero.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\bg_border.png",
+      "PackagePath": "staticwebassets\\images\\home\\bg_border.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery1.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery2.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery3.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery4.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\girl1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl1.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\girl2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl2.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\girl3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl3.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\iframe1.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe1.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\iframe2.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe2.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\iframe3.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe3.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\iframe4.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe4.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\logo.png",
+      "PackagePath": "staticwebassets\\images\\home\\logo.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\map.png",
+      "PackagePath": "staticwebassets\\images\\home\\map.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\new.png",
+      "PackagePath": "staticwebassets\\images\\home\\new.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner1.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner2.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner3.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner4.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\images\\home\\pricing.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product1.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product2.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\product3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product3.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\product4.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product4.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\product5.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product5.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\product6.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product6.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\recommend1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend1.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\recommend2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend2.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\recommend3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend3.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\sale.png",
+      "PackagePath": "staticwebassets\\images\\home\\sale.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\images\\home\\searchicon.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\home\\shipping.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\shipping.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\items.png",
+      "PackagePath": "staticwebassets\\images\\items.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\jhumka-img.png",
+      "PackagePath": "staticwebassets\\images\\jhumka-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\kangan-img.png",
+      "PackagePath": "staticwebassets\\images\\kangan-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\laptop-img.png",
+      "PackagePath": "staticwebassets\\images\\laptop-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\left-black-arrow.png",
+      "PackagePath": "staticwebassets\\images\\left-black-arrow.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\images\\map-icon.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\mobile-img.png",
+      "PackagePath": "staticwebassets\\images\\mobile-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\neklesh-img.png",
+      "PackagePath": "staticwebassets\\images\\neklesh-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p1.png",
+      "PackagePath": "staticwebassets\\images\\p1.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p10.png",
+      "PackagePath": "staticwebassets\\images\\p10.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p11.png",
+      "PackagePath": "staticwebassets\\images\\p11.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p12.png",
+      "PackagePath": "staticwebassets\\images\\p12.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p2.png",
+      "PackagePath": "staticwebassets\\images\\p2.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p3.png",
+      "PackagePath": "staticwebassets\\images\\p3.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p4.png",
+      "PackagePath": "staticwebassets\\images\\p4.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p5.png",
+      "PackagePath": "staticwebassets\\images\\p5.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p6.png",
+      "PackagePath": "staticwebassets\\images\\p6.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p7.png",
+      "PackagePath": "staticwebassets\\images\\p7.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p8.png",
+      "PackagePath": "staticwebassets\\images\\p8.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\p9.png",
+      "PackagePath": "staticwebassets\\images\\p9.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\product-details\\new.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\new.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\product-details\\rating.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\rating.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\product-details\\share.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\share.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\product-details\\similar1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\similar1.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\product-details\\similar2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\similar2.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\product-details\\similar3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\similar3.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\right-black-arrow.png",
+      "PackagePath": "staticwebassets\\images\\right-black-arrow.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shoes.png",
+      "PackagePath": "staticwebassets\\images\\shoes.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shop\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\advertisement.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shop\\product10.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product10.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shop\\product11.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product11.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shop\\product12.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product12.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shop\\product7.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product7.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shop\\product8.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product8.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\shop\\product9.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product9.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\sign.jpg",
+      "PackagePath": "staticwebassets\\images\\sign.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\images\\toggle-icon.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\tshirt-img.png",
+      "PackagePath": "staticwebassets\\images\\tshirt-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\images\\user-icon.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\images\\women-clothes-img.png",
+      "PackagePath": "staticwebassets\\images\\women-clothes-img.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
       "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
     },
     {
       "Id": "D:\\BAITAP_ASP\\ASP-web\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",

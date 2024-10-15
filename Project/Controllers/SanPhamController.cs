@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -9,11 +10,10 @@ namespace Project.Controllers
 {
     [Area("Admin")]
     [Authorize(Roles = "Admin")]
-
     public class SanPhamController : Controller
     {
         private readonly ApplicationDbContext _db;
-        public SanPhamController (ApplicationDbContext db)
+        public SanPhamController(ApplicationDbContext db)
         {
             _db = db;
         }
@@ -35,22 +35,22 @@ namespace Project.Controllers
                 }
             );
             ViewBag.DSTheLoai = dstheloai;
-            if(id == 0)
+            if (id == 0)
             {
                 return View(sanpham);
-            }    
+            }
             else
             {
                 sanpham = _db.SanPham.Include("TheLoai").FirstOrDefault(sp => sp.Id == id);
                 return View(sanpham);
-            }    
+            }
         }
         [HttpPost]
         public IActionResult Upsert(SanPham sanpham)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                if(sanpham.Id == 0)
+                if (sanpham.Id == 0)
                 {
                     _db.SanPham.Add(sanpham);
                 }
@@ -60,37 +60,20 @@ namespace Project.Controllers
                 }
                 _db.SaveChanges();
                 return RedirectToAction("Index");
-            }    
+            }
             return View();
         }
         [HttpPost]
         public IActionResult Delete(int id)
         {
             var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
-            if(sanpham == null)
+            if (sanpham == null)
             {
                 return NotFound();
-            }    
+            }
             _db.SanPham.Remove(sanpham);
             _db.SaveChanges();
             return Json(new { success = true });
-        }
-        [HttpGet]
-        public IActionResult Search(String searchString)
-        {
-            if (!string.IsNullOrEmpty(searchString))
-            {
-                var sanpham = _db.SanPham.
-                    Where(tl => tl.Name.Contains(searchString)).ToList();
-                ViewBag.SearchString = searchString;
-                ViewBag.SanPham = sanpham;
-            }
-            else
-            {
-                var sanpham = _db.SanPham.ToList();
-                ViewBag.SanPham = sanpham;
-            }
-            return View("Index");
         }
     }
 }

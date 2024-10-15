@@ -19,7 +19,7 @@ namespace Project.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<SanPham> sanpham = _db.SanPham.Include(sp => sp.TheLoai).ToList();
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").ToList();
             return View(sanpham);
         }
 
@@ -32,6 +32,16 @@ namespace Project.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var sanpham = _db.SanPham.Find(id);
+            return View(sanpham);
         }
     }
 }
