@@ -133,476 +133,660 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\Hinh1.webp",
+      "PackagePath": "staticwebassets\\img\\Hinh1.webp"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1.html",
+      "PackagePath": "staticwebassets\\img\\anh1.html"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\858181773.html",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\858181773.html"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
-      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\Chart.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\Chart.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
-      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\ScrollToPlugin.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\ScrollToPlugin.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\404\\404.png",
-      "PackagePath": "staticwebassets\\images\\404\\404.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\StaticMapService.GetMapImage",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\StaticMapService.GetMapImage"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\apple-store.png",
-      "PackagePath": "staticwebassets\\images\\apple-store.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\TweenLite.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\TweenLite.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\banner-bg.png",
-      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\absoluteCounter.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\absoluteCounter.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\blog-one.jpg",
-      "PackagePath": "staticwebassets\\images\\blog\\blog-one.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\accordion.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\accordion.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\blog-three.jpg",
-      "PackagePath": "staticwebassets\\images\\blog\\blog-three.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\accounting.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\accounting.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\blog-two.jpg",
-      "PackagePath": "staticwebassets\\images\\blog\\blog-two.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\add-to-cart-variation.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\add-to-cart-variation.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\man-four.jpg",
-      "PackagePath": "staticwebassets\\images\\blog\\man-four.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\addons.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\addons.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\man-one.jpg",
-      "PackagePath": "staticwebassets\\images\\blog\\man-one.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\api-fetch.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\api-fetch.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\man-three.jpg",
-      "PackagePath": "staticwebassets\\images\\blog\\man-three.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\api-request.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\api-request.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\man-two.jpg",
-      "PackagePath": "staticwebassets\\images\\blog\\man-two.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\blog.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\blog.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\blog\\socials.png",
-      "PackagePath": "staticwebassets\\images\\blog\\socials.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\bootstrapCarousel.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\bootstrapCarousel.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\call-icon.png",
-      "PackagePath": "staticwebassets\\images\\call-icon.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\comment-reply.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\comment-reply.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\cart\\one.png",
-      "PackagePath": "staticwebassets\\images\\cart\\one.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\common.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\common.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\cart\\three.png",
-      "PackagePath": "staticwebassets\\images\\cart\\three.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\core.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\core.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\cart\\two.png",
-      "PackagePath": "staticwebassets\\images\\cart\\two.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\counter.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\counter.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\client.png",
-      "PackagePath": "staticwebassets\\images\\client.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\css",
+      "PackagePath": "staticwebassets\\img\\anh1_files"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\computer-img.png",
-      "PackagePath": "staticwebassets\\images\\computer-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\default-display-images.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\default-display-images.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\d-1.png",
-      "PackagePath": "staticwebassets\\images\\d-1.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-1.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\d-2.png",
-      "PackagePath": "staticwebassets\\images\\d-2.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-10-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-10-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\d-3.png",
-      "PackagePath": "staticwebassets\\images\\d-3.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-2-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-2-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\d-4.png",
-      "PackagePath": "staticwebassets\\images\\d-4.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-3-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-3-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\detail.png",
-      "PackagePath": "staticwebassets\\images\\detail.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-4-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-4-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\dress-shirt-img.png",
-      "PackagePath": "staticwebassets\\images\\dress-shirt-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-5-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-5-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\fb.png",
-      "PackagePath": "staticwebassets\\images\\fb.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-6-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-6-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\find-hero.png",
-      "PackagePath": "staticwebassets\\images\\find-hero.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-7-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-7-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\find-img.png",
-      "PackagePath": "staticwebassets\\images\\find-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-8-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-8-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\flag-france.png",
-      "PackagePath": "staticwebassets\\images\\flag-france.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-5680-9-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-5680-9-100x100.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\flag-uk.png",
-      "PackagePath": "staticwebassets\\images\\flag-uk.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-7520-1-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-7520-1-300x300.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\footer-logo.png",
-      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-precision-7730-1-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-precision-7730-1-300x300.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\google-play.png",
-      "PackagePath": "staticwebassets\\images\\google-play.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell-xps-15-7590-1-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell-xps-15-7590-1-300x300.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\hero.png",
-      "PackagePath": "staticwebassets\\images\\hero.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\dell_xps_13_9380_1-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\dell_xps_13_9380_1-300x300.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\bg_border.png",
-      "PackagePath": "staticwebassets\\images\\home\\bg_border.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(1).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(1).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\gallery1.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\gallery1.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(10).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(10).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\gallery2.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\gallery2.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(11).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(11).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\gallery3.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\gallery3.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(12).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(12).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\gallery4.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\gallery4.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(13).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(13).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\girl1.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\girl1.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(14).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(14).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\girl2.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\girl2.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(15).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(15).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\girl3.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\girl3.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(16).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(16).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\iframe1.png",
-      "PackagePath": "staticwebassets\\images\\home\\iframe1.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(17).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(17).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\iframe2.png",
-      "PackagePath": "staticwebassets\\images\\home\\iframe2.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(18).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(18).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\iframe3.png",
-      "PackagePath": "staticwebassets\\images\\home\\iframe3.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(19).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(19).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\iframe4.png",
-      "PackagePath": "staticwebassets\\images\\home\\iframe4.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(2).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(2).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\logo.png",
-      "PackagePath": "staticwebassets\\images\\home\\logo.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(20).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(20).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\map.png",
-      "PackagePath": "staticwebassets\\images\\home\\map.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(21).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(21).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\new.png",
-      "PackagePath": "staticwebassets\\images\\home\\new.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(22).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(22).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\partner1.png",
-      "PackagePath": "staticwebassets\\images\\home\\partner1.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(23).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(23).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\partner2.png",
-      "PackagePath": "staticwebassets\\images\\home\\partner2.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(24).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(24).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\partner3.png",
-      "PackagePath": "staticwebassets\\images\\home\\partner3.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(25).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(25).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\partner4.png",
-      "PackagePath": "staticwebassets\\images\\home\\partner4.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(26).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(26).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\pricing.png",
-      "PackagePath": "staticwebassets\\images\\home\\pricing.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(27).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(27).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\product1.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\product1.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(28).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(28).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\product2.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\product2.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(29).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(29).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\product3.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\product3.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(3).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(3).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\product4.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\product4.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(30).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(30).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\product5.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\product5.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(31).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(31).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\product6.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\product6.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(32).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(32).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\recommend1.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\recommend1.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(33).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(33).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\recommend2.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\recommend2.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(34).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(34).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\recommend3.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\recommend3.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(35).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(35).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\sale.png",
-      "PackagePath": "staticwebassets\\images\\home\\sale.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(36).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(36).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\searchicon.png",
-      "PackagePath": "staticwebassets\\images\\home\\searchicon.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(4).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(4).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\home\\shipping.jpg",
-      "PackagePath": "staticwebassets\\images\\home\\shipping.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(5).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(5).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\instagram.png",
-      "PackagePath": "staticwebassets\\images\\instagram.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(6).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(6).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\items.png",
-      "PackagePath": "staticwebassets\\images\\items.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(7).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(7).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\jhumka-img.png",
-      "PackagePath": "staticwebassets\\images\\jhumka-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(8).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(8).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\kangan-img.png",
-      "PackagePath": "staticwebassets\\images\\kangan-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv(9).css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv(9).css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\laptop-img.png",
-      "PackagePath": "staticwebassets\\images\\laptop-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\e1bqv.css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\e1bqv.css"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\left-black-arrow.png",
-      "PackagePath": "staticwebassets\\images\\left-black-arrow.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\easypiechart.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\easypiechart.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\linkedin.png",
-      "PackagePath": "staticwebassets\\images\\linkedin.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\embed.html",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\embed.html"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\logo.png",
-      "PackagePath": "staticwebassets\\images\\logo.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\f.txt",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\f.txt"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\mail-icon.png",
-      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\facebook_1.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\facebook_1.png"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\map-icon.png",
-      "PackagePath": "staticwebassets\\images\\map-icon.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\fluidvids.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\fluidvids.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\menu.png",
-      "PackagePath": "staticwebassets\\images\\menu.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\frontend.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\frontend.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\mobile-img.png",
-      "PackagePath": "staticwebassets\\images\\mobile-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\geometry.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\geometry.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\neklesh-img.png",
-      "PackagePath": "staticwebassets\\images\\neklesh-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\giaohangnhanh.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\giaohangnhanh.png"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\next.png",
-      "PackagePath": "staticwebassets\\images\\next.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\giaohangtietkiem.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\giaohangtietkiem.jpg"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p1.png",
-      "PackagePath": "staticwebassets\\images\\p1.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\gtm.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\gtm.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p10.png",
-      "PackagePath": "staticwebassets\\images\\p10.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\hooks.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\hooks.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p11.png",
-      "PackagePath": "staticwebassets\\images\\p11.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\hoverIntent.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\hoverIntent.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p12.png",
-      "PackagePath": "staticwebassets\\images\\p12.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\i18n.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\i18n.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p2.png",
-      "PackagePath": "staticwebassets\\images\\p2.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\icon-2.png"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p3.png",
-      "PackagePath": "staticwebassets\\images\\p3.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\index(1).js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\index(1).js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p4.png",
-      "PackagePath": "staticwebassets\\images\\p4.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\index.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\index.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p5.png",
-      "PackagePath": "staticwebassets\\images\\p5.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\init_embed.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\init_embed.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p6.png",
-      "PackagePath": "staticwebassets\\images\\p6.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\ion.range-slider.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\ion.range-slider.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p7.png",
-      "PackagePath": "staticwebassets\\images\\p7.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\isotope.pkgd.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\isotope.pkgd.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p8.png",
-      "PackagePath": "staticwebassets\\images\\p8.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery-migrate.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\p9.png",
-      "PackagePath": "staticwebassets\\images\\p9.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.appear.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.appear.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\prev.png",
-      "PackagePath": "staticwebassets\\images\\prev.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.blockUI.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.blockUI.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\product-details\\1.jpg",
-      "PackagePath": "staticwebassets\\images\\product-details\\1.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.countdown.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.countdown.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\product-details\\new.jpg",
-      "PackagePath": "staticwebassets\\images\\product-details\\new.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.easing.1.3.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.easing.1.3.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\product-details\\rating.png",
-      "PackagePath": "staticwebassets\\images\\product-details\\rating.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.flexslider.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.flexslider.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\product-details\\share.png",
-      "PackagePath": "staticwebassets\\images\\product-details\\share.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.hoverdir.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.hoverdir.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\product-details\\similar1.jpg",
-      "PackagePath": "staticwebassets\\images\\product-details\\similar1.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.infinitescroll.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.infinitescroll.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\product-details\\similar2.jpg",
-      "PackagePath": "staticwebassets\\images\\product-details\\similar2.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\product-details\\similar3.jpg",
-      "PackagePath": "staticwebassets\\images\\product-details\\similar3.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.mixitup.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.mixitup.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\right-black-arrow.png",
-      "PackagePath": "staticwebassets\\images\\right-black-arrow.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.nicescroll.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.nicescroll.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\search-icon.png",
-      "PackagePath": "staticwebassets\\images\\search-icon.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.plugin.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.plugin.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shoes.png",
-      "PackagePath": "staticwebassets\\images\\shoes.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.prettyPhoto.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.prettyPhoto.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shop\\advertisement.jpg",
-      "PackagePath": "staticwebassets\\images\\shop\\advertisement.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.tipTip.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.tipTip.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shop\\product10.jpg",
-      "PackagePath": "staticwebassets\\images\\shop\\product10.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.touchSwipe.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.touchSwipe.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shop\\product11.jpg",
-      "PackagePath": "staticwebassets\\images\\shop\\product11.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.waitforimages.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.waitforimages.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shop\\product12.jpg",
-      "PackagePath": "staticwebassets\\images\\shop\\product12.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\jquery.waypoints.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\jquery.waypoints.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shop\\product7.jpg",
-      "PackagePath": "staticwebassets\\images\\shop\\product7.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\js",
+      "PackagePath": "staticwebassets\\img\\anh1_files"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shop\\product8.jpg",
-      "PackagePath": "staticwebassets\\images\\shop\\product8.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\js(1)",
+      "PackagePath": "staticwebassets\\img\\anh1_files"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\shop\\product9.jpg",
-      "PackagePath": "staticwebassets\\images\\shop\\product9.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\js(2)",
+      "PackagePath": "staticwebassets\\img\\anh1_files"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\sign.jpg",
-      "PackagePath": "staticwebassets\\images\\sign.jpg"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\js.cookie.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\js.cookie.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\toggle-icon.png",
-      "PackagePath": "staticwebassets\\images\\toggle-icon.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\js_composer_front.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\js_composer_front.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\tshirt-img.png",
-      "PackagePath": "staticwebassets\\images\\tshirt-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\like.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\like.min.js.download"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\twitter.png",
-      "PackagePath": "staticwebassets\\images\\twitter.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\linkedin_1.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\linkedin_1.png"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\user-icon.png",
-      "PackagePath": "staticwebassets\\images\\user-icon.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\logo-atm.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\logo-atm.png"
     },
     {
-      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\images\\women-clothes-img.png",
-      "PackagePath": "staticwebassets\\images\\women-clothes-img.png"
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\logo-jcb.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\logo-jcb.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\logo-macstores.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\logo-macstores.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\logo-master.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\logo-master.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\logo-samsungpay.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\logo-samsungpay.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\logo-visa.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\logo-visa.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\logo-vnpay.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\logo-vnpay.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\lt-express.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\lt-express.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\main.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\main.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\map.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\map.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\maxmegamenu.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\maxmegamenu.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\mediaelement-and-player.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\mediaelement-and-player.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\mediaelement-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\mediaelement-migrate.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\modernizr.custom.85257.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\modernizr.custom.85257.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\modules.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\modules.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\nhattin.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\nhattin.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\onion.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\onion.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\order-attribution.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\order-attribution.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\overlay.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\overlay.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\owl.carousel.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\owl.carousel.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\parallax.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\parallax.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\pinterest.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\pinterest.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\rbtools.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\rbtools.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\rs6.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\rs6.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\script.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\script.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\search.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\search.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\search_impl.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\search_impl.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\select2.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\select2.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\selectWoo.full.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\selectWoo.full.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\shortcode-script.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\shortcode-script.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\single-product.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\single-product.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\skrollr.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\skrollr.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\slick.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\slick.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\sourcebuster.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\sourcebuster.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\style.css",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\style.css"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\swipebox.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\swipebox.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\tabs.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\tabs.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\underscore.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\underscore.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\url.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\url.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\util.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\util.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\viettelpost.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\viettelpost.png"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\vnpost.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\vnpost.jpg"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\woocommerce.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\woocommerce.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\wp-mediaelement.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\wp-mediaelement.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\wp-polyfill.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\wp-polyfill.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\wp-util.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\wp-util.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\yith-wcan-shortcodes.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\yith-wcan-shortcodes.min.js.download"
+    },
+    {
+      "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\img\\anh1_files\\zalo-1.png",
+      "PackagePath": "staticwebassets\\img\\anh1_files\\zalo-1.png"
     },
     {
       "Id": "D:\\BAITAP_ASP\\Project\\wwwroot\\js\\bootstrap.bundle.js",
