@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
 using Project.Models;
@@ -36,12 +37,21 @@ namespace Project.Controllers
         [HttpGet]
         public IActionResult Details(int id)
         {
-            if (id == 0)
-            {
-                return NotFound();
-            }
-            var sanpham = _db.SanPham.Find(id);
+            SanPham sanpham = new SanPham();
+
+            sanpham = _db.SanPham.Include("TheLoai").FirstOrDefault(sp => sp.Id == id);
+
             return View(sanpham);
+
+        }
+        [HttpGet]
+        public IActionResult FilterByTheLoai(int id)
+        {
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai")
+                .Where(sp => sp.TheLoai.Id == id)
+                .ToList();
+
+            return View("Index", sanpham);
         }
     }
 }
