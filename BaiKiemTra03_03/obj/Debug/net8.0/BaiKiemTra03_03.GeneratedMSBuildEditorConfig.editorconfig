@@ -30,10 +30,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BAITAP_ASP/ASP-web/BaiKiemTra03_03/Views/Contract/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/BAITAP_ASP/ASP-web/BaiKiemTra03_03/Views/Contract/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/BAITAP_ASP/ASP-web/BaiKiemTra03_03/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BAITAP_ASP/ASP-web/BaiKiemTra03_03/Views/Customer/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/BAITAP_ASP/ASP-web/BaiKiemTra03_03/Views/Customer/Edit.cshtml]

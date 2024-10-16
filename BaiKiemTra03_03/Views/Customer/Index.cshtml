@@ -4,8 +4,7 @@
 }
 <div class="container">
     <form asp-action="Search" method="get">
-        <input type="text" name="searchString"
-               value="@ViewBag.SearchString" />
+        <input type="text" name="searchString" value="@ViewBag.SearchString" />
         <input type="submit" value="Tìm kiếm" />
     </form>
     <table class="table">
@@ -29,7 +28,7 @@
                     <td width="20%">
                         <a asp-action="Edit" asp-route-id="@item.CustomerId">Edit</a>|
                         <a asp-action="Detail" asp-route-id="@item.CustomerId">Detail</a>|
-                        <a asp-action="Delete" asp-route-id="@item.CustomerId">Delete</a>
+                        <a href="#" onclick="confirmDelete(@item.CustomerId, $(this))">Delete</a>
                     </td>
                 </tr>
             </tbody>
@@ -38,6 +37,26 @@
     <a asp-controller="Customer" asp-action="Create" class="btn btn-primary">Thêm</a>
 
 </div>
+<script>
+    function confirmDelete(CustomerId, row)
+    {
+        if(confirm("Bạn có chắc chắn muốn xóa khách hàng có id là" + Contract_Id + "?"))
+        {
+            xoa(CustomerId, $(row))
+        }
+    }
+    function xoa(CustomerIdx, row)
+    {
+        $.ajax({
+            url: `Customer/Delete`,
+            data: {CustomerId: CustomerIdx},
+            type: "POST",
+            success: function(data){
+                row.closest("tr").remove();
+            }
+        })
+    }
+</script>
 @section Scripts {
     @{
         <partial name="_ValidationScriptsPartial" />

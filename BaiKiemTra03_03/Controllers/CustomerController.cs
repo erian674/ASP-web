@@ -14,8 +14,8 @@ namespace BaiKiemTra03_03.Controllers
 
         public IActionResult Index()
         {
-            var customer = _db.Customer.ToList();
-            ViewBag.Customer = customer;
+            var Customer = _db.Customer.ToList();
+            ViewBag.Customer = Customer;
 
             return View();
         }
@@ -25,86 +25,86 @@ namespace BaiKiemTra03_03.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Customer customer)
+        public IActionResult Create(Customer Customer)
         {
             if (ModelState.IsValid)
             {
-                _db.Customer.Add(customer);
+                _db.Customer.Add(Customer);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
             }
             return View();
         }
         [HttpGet]
-        public IActionResult Edit(int id)
+        public IActionResult Edit(int CustomerId)
         {
-            if (id == 0)
+            if (CustomerId == 0)
             {
                 return NotFound();
             }
-            var ct = _db.Contract.Find(id);
-            return View(ct);
+            var Customer = _db.Customer.Find(CustomerId);
+            return View(Customer);
         }
 
         [HttpPost]
-        public IActionResult Edit(Contract ct)
+        public IActionResult Edit(Customer Customer)
         {
             if (ModelState.IsValid)
             {
-                _db.Contract.Update(ct);
+                _db.Customer.Update(Customer);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
             }
             return View();
         }
         [HttpGet]
-        public IActionResult Delete(int id)
+        public IActionResult Delete(int CustomerId)
         {
-            if (id == 0)
+            if (CustomerId == 0)
             {
                 return NotFound();
             }
-            var ct = _db.Contract.Find(id);
-            return View(ct);
+            var Customer = _db.Customer.Find(CustomerId);
+            return View(Customer);
         }
         [HttpPost]
-        public IActionResult DeleteConfirm(int id)
+        public IActionResult DeleteConfirm(int CustomerId)
         {
-            var ct = _db.Contract.Find(id);
-            if (ct == null)
+            var Customer = _db.Customer.Find(CustomerId);
+            if (Customer == null)
             {
                 return NotFound();
             }
-            _db.Contract.Remove(ct);
+            _db.Customer.Remove(Customer);
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
         [HttpGet]
-        public IActionResult Detail(int id)
+        public IActionResult Detail(int CustomerId)
         {
-            if (id == 0)
+            if (CustomerId == 0)
             {
                 return NotFound();
             }
-            var ct = _db.Contract.Find(id);
-            return View(ct);
+            var Customer = _db.Customer.Find(CustomerId);
+            return View(Customer);
         }
-        //[HttpGet]
-        //public IActionResult Search(String searchString)
-        //{
-        //    if (!string.IsNullOrEmpty(searchString))
-        //    {
-        //        var theloai = _db.TheLoai.
-        //            Where(tl => tl.Name.Contains(searchString)).ToList();
-        //        ViewBag.SearchString = searchString;
-        //        ViewBag.TheLoai = theloai;
-        //    }
-        //    else
-        //    {
-        //        var theloai = _db.TheLoai.ToList();
-        //        ViewBag.TheLoai = theloai;
-        //    }
-        //    return View("Index");
-        //}
+        [HttpGet]
+        public IActionResult Search(String searchString)
+        {
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                var Customer = _db.Customer.
+                    Where(tl => tl.Customer_name.Contains(searchString)).ToList();
+                ViewBag.SearchString = searchString;
+                ViewBag.Customer = Customer;
+            }
+            else
+            {
+                var Customer = _db.Customer.ToList();
+                ViewBag.Customer = Customer;
+            }
+            return View("Index");
+        }
     }
 }

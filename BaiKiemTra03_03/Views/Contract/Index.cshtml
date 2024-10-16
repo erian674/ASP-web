@@ -2,41 +2,53 @@
 @{
     ViewData["Title"] = "Index";
 }
+@model IEnumerable<Contract>
 <div class="container">
-    <form asp-action="Search" method="get">
-        <input type="text" name="searchString"
-               value="@ViewBag.SearchString" />
-        <input type="submit" value="Tìm kiếm" />
-    </form>
     <table class="table">
         <thead>
             <tr>
                 <th>Tên hợp đồng</th>
                 <th>Ngày ký kết</th>
-                <th>Giá trị hợp đồng</th>
-                <th></th>
-                <th>Chức năng</th>
+                <th>Giá trị</th>
+                <th>Tên chức năng</th>
             </tr>
         </thead>
-        @foreach (var item in ViewBag.Contract)
-        {
-            <tbody>
+        <tbody>
+            @foreach (var item in Model)
+            {
                 <tr>
-                    <td width="25%">@item.Contract_name</td>
-                    <td width="25%">@String.Format("{0:dd/MM/yyyy}", item.Signing_Date)</td>
-                    <td width="25%">@item.Contract_Value</td>
-                    <td width="25%">
-                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>|
-                        <a asp-action="Detail" asp-route-id="@item.Id">Detail</a>|
-                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <td width="20%">@item.Contract_name</td>
+                    <td width="20%">@String.Format("{0:dd/MM/yyyy}", item.Signing_Date)</td>
+                    <td width="20%">@item.Contract_Value</td>
+                    <td width="20%">@item.Customer.Customer_name</td>
+                    <td width="20%">
+                        <a asp-action="Upsert" asp-route-id="@item.CustomerId">Edit</a>|
+                        <a href="#">Details</a>|
+                        <a href="#" onclick="confirmDelete(@item.CustomerId, $(this))">Delete</a>
                     </td>
                 </tr>
-            </tbody>
-        }
+            }
+        </tbody>
     </table>
-    <a asp-controller="Contract" asp-action="Create" class="btn btn-primary">Thêm</a>
-
+    <a asp-controller="Contract" asp-action="Upsert" class="btn btn-primary">Thêm</a>
 </div>
+<script>
+    function confirmDelete(Contract_Id, row) {
+        if (confirm("Bạn có chắc chắn muốn xóa hợp đồng có id là" + Contract_Id + "?")) {
+            xoa(Contract_Id, $(row))
+        }
+    }
+    function xoa(Contract_Idx, row) {
+        $.ajax({
+            url: `Contract/Delete`,
+            data: { Contract_Id: Contract_Idx },
+            type: "POST",
+            success: function(data){
+                row.closest("tr").remove();
+            }
+        })
+    }
+</script>
 @section Scripts {
     @{
         <partial name="_ValidationScriptsPartial" />

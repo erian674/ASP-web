@@ -7,7 +7,7 @@ namespace BaiKiemTra03_03.Models
         [Key]
         public int CustomerId { get; set; }
         [Required(ErrorMessage = "Không được để trống!")]
-        [Display(Name = "Tên")]
+        [Display(Name = "Tên khách hàng")]
         public string Customer_name { get; set; }
         [Required(ErrorMessage = "Không được để trống!")]
         [Display(Name = "Địa chỉ")]

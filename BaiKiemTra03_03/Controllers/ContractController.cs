@@ -1,6 +1,8 @@
 ﻿using BaiKiemTra03_03.Data;
 using BaiKiemTra03_03.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace BaiKiemTra03_03.Controllers
 {
@@ -13,94 +15,76 @@ namespace BaiKiemTra03_03.Controllers
         }
         public IActionResult Index()
         {
-            var contract = _db.Contract.ToList();
-            ViewBag.Contract = contract;
-            return View();
-        }
-        [HttpGet]
-        public IActionResult Create()
-        {
-            return View();
-        }
-        [HttpPost]
-        public IActionResult Create(Contract ct)
-        {
-            if (ModelState.IsValid)
-            {
-                _db.Contract.Add(ct);
-                _db.SaveChanges();
-                return RedirectToAction("Index");
-            }
-            return View();
-        }
-        [HttpGet]
-        public IActionResult Edit(int id)
-        {
-            if (id == 0)
-            {
-                return NotFound();
-            }
-            var ct = _db.Contract.Find(id);
-            return View(ct);
-        }
-
-        [HttpPost]
-        public IActionResult Edit(Contract ct)
-        {
-            if (ModelState.IsValid)
-            {
-                _db.Contract.Update(ct);
-                _db.SaveChanges();
-                return RedirectToAction("Index");
-            }
-            return View();
+            IEnumerable<Contract> Contract = _db.Contract.Include("Contract").ToList();
+            return View(Contract);
         }
         //[HttpGet]
-        //public IActionResult Delete(int id)
+        //public IActionResult Upsert(int id)
         //{
+        //    Contract Contract = new Contract();
+        //    IEnumerable<SelectListItem> dsContract = _db.Contract.Select
+        //    (
+        //        item => new SelectListItem
+        //        {
+        //            Value = item.Id.ToString(),
+        //            Text = item.Name
+        //        }
+        //    );
+        //    ViewBag.DSContract = dsContract;
         //    if (id == 0)
         //    {
-        //        return NotFound();
+        //        return View(Contract);
         //    }
-        //    var theloai = _db.TheLoai.Find(id);
-        //    return View(theloai);
+        //    else
+        //    {
+        //        Contract = _db.Contract.Include("Contract").FirstOrDefault(sp => sp.Id == id);
+        //        return View(Contract);
+        //    }
         //}
         //[HttpPost]
-        //public IActionResult DeleteConfirm(int id)
+        //public IActionResult Upsert(Contract Contract)
         //{
-        //    var theloai = _db.TheLoai.Find(id);
-        //    if (theloai == null)
+        //    if (ModelState.IsValid)
         //    {
-        //        return NotFound();
+        //        if (Contract.Id == 0)
+        //        {
+        //            _db.Contract.Add(Contract);
+        //        }
+        //        else
+        //        {
+        //            _db.Contract.Update(Contract);
+        //        }
+        //        _db.SaveChanges();
+        //        return RedirectToAction("Index");
         //    }
-        //    _db.TheLoai.Remove(theloai);
-        //    _db.SaveChanges();
-        //    return RedirectToAction("Index");
+        //    return View();
         //}
-        //[HttpGet]
-        //public IActionResult Detail(int id)
+        //[HttpPost]
+        //public IActionResult Delete(int id)
         //{
-        //    if (id == 0)
+        //    var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
+        //    if (sanpham == null)
         //    {
         //        return NotFound();
         //    }
-        //    var theloai = _db.TheLoai.Find(id);
-        //    return View(theloai);
+        //    _db.SanPham.Remove(sanpham);
+        //    _db.SaveChanges();
+        //    return Json(new { success = true });
         //}
         //[HttpGet]
         //public IActionResult Search(String searchString)
         //{
         //    if (!string.IsNullOrEmpty(searchString))
         //    {
-        //        var theloai = _db.TheLoai.
+        //        var sanpham = _db.SanPham.
         //            Where(tl => tl.Name.Contains(searchString)).ToList();
         //        ViewBag.SearchString = searchString;
-        //        ViewBag.TheLoai = theloai;
+        //        ViewBag.SanPham = sanpham;
         //    }
         //    else
         //    {
-        //        var theloai = _db.TheLoai.ToList();
-        //        ViewBag.TheLoai = theloai;
+        //        var sanpham = _db.SanPham.ToList();
+        //        ViewBag.SanPham = sanpham;
         //    }
         //    return View("Index");
         //}
